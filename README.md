@@ -32,7 +32,7 @@ Using these data files (`survey_fcasts.yr1.csv`, `survey_fcasts.yr2.csv` and `if
 The resulting data (which is used for the analyses) can be found in the **Data** folder.
 Figures 1, 3, and 4 were produced using the `Figure1,3,4.xlsx` Excel file. 
 Figure 2 was produced using the `Figure2script.R` R script. 
-Tables 1 and 2 were produced using `Table1script.R` Rscript and `Table2STATAscript.do`STATA Code. 
+Tables 1 and 2 were produced using `Table1script.R` Rscript and `Table2STATAscript.do`STATA Code. The `Table 2 Results on 6092024.pdf`contains example of our models' results. 
 
 
 
