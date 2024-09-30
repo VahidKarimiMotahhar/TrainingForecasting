@@ -33,7 +33,7 @@ The resulting data (which is used for the analyses) can be found in the **Data**
 Figures 1, 3, and 4 were produced using the `Figure1,3,4.xlsx` Excel file. 
 Figure 2 was produced using the `Figure2script.R` R script. 
 Tables 1 and 2 were produced using `Table1script.R` Rscript and `Table2STATAscript.do`STATA Code. The `Table 2 Results on 6092024.pdf`contains example of our models' results. 
-This GitHub repository was assembled on September 30th 2024. The Results provided in Table 2 was produced on June 29th 2024. More specifications on computational environment can be found in the `Table2STATAscript.do`.
+This GitHub repository was assembled on September 30th 2024. The Results provided in Table 2 was produced on June 29th 2024 (find more details in the `Table 2 Results on 6092024.pdf`). To find specifications on computational environment access the `Table2STATAscript.do`.
 
 
 ## Computational instructions
