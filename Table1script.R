@@ -1,16 +1,17 @@
 #How does training improve individual forecasts? Modeling Differences in Compensatory and Non-Compensatory Biases in Geopolitical Forecasts
 #Corresponding author’s contact details:
-#  First Name: Vahid assistant professor of marketing at sabancı university
+#First Name: Vahid 
 #Surname: Karimi Motahhar
+#assistant professor of marketing at sabancı university
 #Email address: vahid.karimimotahhar@sabanciuniv.edu
 #Affiliation postal address: Sabancı University. Orta Mahalle, 34956 Tuzla, İstanbul, Türkiye
 #Co-authors’ contact details:
-#  First Name: Thomas professor of marketing at the university of iowa
+#First Name: Thomas 
 #Middle Name: S.
 #Surname: Gruca
+#professor of marketing at the university of iowa
 #Email address: thomas-gruca@uiowa.edu
 #Affiliation postal address: 21 E Market St, Iowa City, IA 52242, USA
-
 
 # Table 1 Script:
 
