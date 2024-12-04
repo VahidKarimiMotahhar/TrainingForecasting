@@ -36,7 +36,7 @@ Tables 1 and 2 were produced using `Table1script.R` Rscript and `Table2STATAscri
 
 
 
-## Instructions & computational requirements.
+## Instructions & computational requirements
 
 All file paths are relative to the root of the replication package. Please set your working directory accordingly using RStudio.
 These analyses were run on R 4.2.2, and we explicitly use the following packages in the analysis files: `ggplot2` (3.4.0), `dplyr` (1.0.10), `readr` (2.1.3).
